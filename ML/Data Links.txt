@@ -1,0 +1,190 @@
+MY CERTFICIATES:
+https://courses.analyticsvidhya.com/certificates/ec3uwzkfas
+https://courses.analyticsvidhya.com/certificates/rcruslpvio
+
+OPEN JOB APPLICATIONS:
+https://www.boe-futuretalent.co.uk/undergraduate/graduate-development-programme.html
+https://www.datacamp.com/careers
+https://www.americanexpress.com/en-us/careers/
+https://careers.jpmorgan.com/us/en/home
+SAP incl SkillsMatcher, eg https://jobs.sap.com/job/Mexico-City-Consultant-for-Data-Management-and-Landscape-Transformation-Services-%28Global-Organization%29-01210/678963401/
+https://www.janestreet.com/join-jane-street/apply/
+https://jobs.gartner.com/jobs/
+
+OTHER JOB SITES TO CHECK:
+https://jobs.cisco.com
+https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/11/refreshFacet/318c8bb6f553100021d223d9780d30be?d=cta-uk-sjb-1mb
+https://uk.indeed.com/m/viewjob?jk=e2d38683bda2b8a8&from=serp
+https://www.linkedin.com/mwlite/jobs/view/2809858388?referenceId=2ZXrhCzivvxMmOhP7TMiZw%3D%3D&eBP=JOB_SEARCH_ORGANIC
+https://careers.google.com/locations/london/?src=Online%2FHouse%20Ads%2FBKWS_LATAM
+
+JOB LISTINGS:
+https://www.reed.co.uk/jobs/data-analyst/45004020?source=searchResults&filter=%2fjobs%2fdata-analyst-jobs-in-london%3fsalaryfrom%3d70000
+https://www.reed.co.uk/jobs/data-analyst/44789251?source=searchResults&filter=%2fjobs%2fdata-analyst-jobs-in-london%3fsalaryfrom%3d70000
+https://uk.indeed.com/m/viewjob?jk=a2ed9d5b9aeda393&from=mobhp_jobfeed&tk=1fmnk20fdr7ud802
+https://www.ziprecruiter.co.uk/jobs/search?q=Data+Analyst&l=United+Kingdom&lat=51.4964&long=-0.1224&d=
+
+HELP GETTING A JOB:
+https://www.analyticsvidhya.com/blog/2021/04/how-to-make-an-impressive-data-science-portfolio/
+https://www.kdnuggets.com/2017/03/get-data-science-job-guide.html
+https://towardsdatascience.com/a-data-science-portfolio-is-more-valuable-than-a-resume-2d031d6ce518
+https://www.kdnuggets.com/2019/10/good-data-scientist-beginner-guide.html
+https://www.coursera.org/articles/data-analyst-interview-questions-and-answers
+https://www.edgepointlearning.com/blog/hard-skills-vs-soft-skills/
+https://www.analyticsvidhya.com/blog/2021/04/20-data-science-interview-questions-for-a-beginner/
+
+PYTHON COURSES:
+https://www.datacamp.com/community/tutorials/data-science-python-ide
+https://stackabuse.com/python-circular-imports/
+https://developers.google.com/edu/python/
+https://www.datacamp.com/community/tutorials/finance-python-trading
+https://www.reddit.com/r/learnpython/wiki/index/
+https://www.reddit.com/r/learnpython/wiki/books/
+https://www.pythonanywhere.com/try-ipython/
+https://www.py4e.com/html3/
+https://www.w3schools.com/python/ref_func_round.asp
+https://pythonprinciples.com/
+https://www.w3schools.com/python/python_ref_functions.asp
+https://www.programiz.com/python-programming/list-comprehension
+https://realpython.com/
+https://pythonprinciples.com/lessons/
+Guyfrom@hotmail.com
+Yt..1!
+https://realpython.com/beautiful-soup-web-scraper-python/
+https://www.datacamp.com/community/data-science-cheatsheets?page=4
+https://www.pythoncheatsheet.org/
+https://www.geeksforgeeks.org/python-classes-and-objects/
+ML/TENSORFLOW/KERAS:
+https://learnopencv.com/learn-keras-and-tensorflow/
+https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
+https://www.tensorflow.org/tutorials
+https://github.com/anish-lakkapragada/SeaLion
+PANDAS/NUMPY:
+https://pandas.pydata.org/pandas-docs/dev/user_guide/cookbook.html
+https://penandpants.com/2014/09/05/performance-of-pandas-series-vs-numpy-arrays/
+https://www.google.co.uk/amp/s/www.geeksforgeeks.org/difference-between-pandas-vs-numpy/amp/
+https://medium.com/analytics-vidhya/master-numpy-in-45-minutes-74b2460ecb00
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/08_combine_dataframes.html
+https://stackoverflow.com/questions/10377998/how-can-i-iterate-over-files-in-a-given-directory
+VISUALISATIONS:
+https://mode.com/blog/python-data-visualization-libraries/
+https://www.tapclicks.com/resources/blog/innovative-data-visualization-examples/
+https://towardsdatascience.com/make-your-data-talk-13072f84eeac
+
+
+DATA SOURCES AND POTENTIAL PROJECTS:
+https://www.coursera.org/articles/data-analytics-projects-for-beginners
+https://data.mendeley.com/datasets/hx5kkkbr3j/1 **eg data set
+https://www.datacamp.com/projects/561
+https://www.datacamp.com/projects/496
+https://www.datacamp.com/projects/504
+https://www.datacamp.com/projects/478
+https://www.datacamp.com/projects/400
+https://www.datacamp.com/projects/10
+https://towardsdatascience.com/12-cool-data-science-projects-ideas-for-beginners-and-experts-fc75b5498e03
+https://www.interviewbit.com/blog/data-science-projects/?amp=1
+https://www.macroaxis.com/invest/worldMarketCorrelation
+https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=6884#!/access-data
+https://www.kaggle.com/majidbazrpach/hollywood-theatrical-market-synopsis-1995-to-2021/data
+https://www.kaggle.com/ironicninja/baby-names
+
+READYMADE DATA PROJECTS:
+https://www.kaggle.com/juliakhokhanovska/good-reads-eda
+https://www.google.co.uk/amp/s/data-flair.training/blogs/advanced-python-project-detecting-fake-news/amp/
+https://www.analyticsvidhya.com/blog/2020/11/create-your-own-movie-movie-recommendation-system/
+https://github.com/dheerajnbhat/IBM-Data-Science-Capstone-Project
+https://www.projectpro.io/projects/data-science-projects
+SEMI-READY MADE PROJECTS:
+https://focaalvarez.medium.com/mapping-the-uk-and-navigating-the-post-code-maze-4898e758b82f
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/february/data-clustering-detecting-abnormal-data-using-k-means-clustering
+https://stackabuse.com/k-means-clustering-with-scikit-learn/
+https://towardsdatascience.com/create-word-cloud-into-any-shape-you-want-using-python-d0b88834bc32
+https://www.google.com/amp/s/blog.paperspace.com/use-cyclegan-age-conversion-keras-python/amp/
+https://realpython.com/beautiful-soup-web-scraper-python/
+
+
+STATISTICS:
+https://www.kite.com/python/answers/how-to-remove-outliers-from-a-pandas-dataframe-in-python
+https://www.w3schools.com/python/python_ml_multiple_regression.asp
+http://www.fairlynerdy.com/what-is-r-squared/
+https://statisticsbyjim.com/hypothesis-testing/identify-distribution-data/
+https://stackoverflow.com/questions/46381794/can-i-make-a-logarithmic-regression-on-sklearn
+https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces
+https://en.m.wikipedia.org/wiki/Glossary_of_mathematical_symbols
+https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
+https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/
+https://machinelearningmastery.com/tour-of-optimization-algorithms/
+https://en.m.wikipedia.org/wiki/Exploratory_data_analysis
+https://en.m.wikipedia.org/wiki/Trimmed_estimator
+https://m.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+https://pdfcookie.com/download/the-manga-guide-to-databasespdf-3ld0zzmxxo24
+
+
+
+EXCEL:
+https://exceljet.net/index-and-match
+https://exceljet.net/excel-data-validation-guide
+https://excel.officetuts.net/formulas/index-match-or-vlookup-to-return-multiple-values/
+https://www.extendoffice.com/documents/excel/3539-excel-convert-array-to-list.html
+https://www.extendoffice.com/documents/excel/2773-excel-convert-matrix-to-list.html
+
+DATA SCIENCE SKILLS:
+https://www.google.co.uk/search?q=descriptive+vs+predictive+analytics&prmd=nivx&sxsrf=APq-WBveW0TDt6pZXUiQWC8Mz7eCPiGOVw:1643535121435&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjBytq4ldn1AhWCQUEAHUVRA6wQ_AUoAnoECAIQAg&biw=368&bih=742&dpr=2#imgrc=JKZJ-nRq8z_rCM&imgdii=IPAQ6sPGNxDFzM
+https://careerfoundry.com/en/blog/data-analytics/data-wrangling/
+https://careerfoundry.com/en/blog/data-analytics/exploratory-data-analysis/#what-are-some-techniques-you-can-use-for-exploratory-data-analysis
+https://www.datacamp.com/community/data-science-cheatsheets?page=4
+https://www.geeksforgeeks.org/partitioning-method-k-mean-in-data-mining/
+https://www.ibm.com/cloud/learn/data-modeling
+https://softwarerecs.stackexchange.com/questions/61396/is-there-a-software-tool-which-allows-to-perform-sql-on-csv-files
+
+
+
+SKILLS/COURSES I NEED:
+Business intelligence/Analytics
+Power BI
+Tableau
+Statistics for data science eg Descriptive statistics, Probability Distributions like Uniform Distribution, Normal Distribution, Poisson Distribution,
+Over and Under Sampling, Dimensionality Reduction, Bayesian Statistics
+SQL - mySQL, access, oracle
+Python - SCikit, SKlearn, matplotlib, ggpolt2, seaborn, Pandas, Numpy, Selenium, beautifulsoup, Keras/Tensorflow [look at Sealion project] and more
+Machine Learning - Supervised, Unsupervised and reinforced learning
+Soft Skills - Analytical Mindset,Focus on Problem Solving,Domain Knowledge/Understand business problems, Communication Skills
+
+
+EDUCATION/CERTIFICATE COURSES:
+Python links as above
+https://www.tutort.net/data-structures-and-algorithms-course
+https://www.edx.org/professional-certificate/harvardx-data-science?index=product&queryID=fd4df9a2fc642f9fbf30dc96781ecb3d&position=1
+https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/?tab=tab-learning-paths
+https://docs.microsoft.com/en-us/learn/certifications/browse/?roles=data-scientist
+https://www.edx.org/search?q=Data%20science&tab=course
+https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/
+
+FREE CERTIFICATIONS:
+https://github.com/cloudcommunity/Free-Certifications
+
+FINANCIAL AID:
+https://www.linkedin.com/pulse/how-answer-coursera-financial-aid-questions-rahad-arefin
+https://github.com/navassherif98/IBM_Data_Science_Professional_Certification/blob/main/Financial%20Aid.pdf
+https://github.com/connectaditya/Financial-AID-application-for-coursera-
+https://github.com/abdelrahmaan/Financial-aid-on-coursera-
+
+Job info/skills/certificates/info:
+https://www.coursera.org/articles/how-to-become-a-data-analyst
+https://skillshop.withgoogle.com/
+https://academy.hubspot.com/courses?page=1#topics=automation;certsOnly=true;
+https://youtu.be/vmEHCJofslg
+Edureka various links including:
+https://youtu.be/-ETQ97mXXF0
+
+COURSEWORK ANSWERS:
+https://github.com/salimt/Courses-
+https://github.com/salimt/Courses-/tree/master/Applied-Data-Science-Specialization-IBM
+https://github.com/shreyansh225/Coursera-Python-Data-Structures-University-of-Michigan-
+https://github.com/chandrikadeb7/Coursera_IBM_Data_Science_Professional_Certificate
+https://www.coursera.support/s/question/0D51U00003BlVnwSAF/lecture-slidestranscripts?language=en_US
+
+https://www.analyticsvidhya.com/wp-content/uploads/2015/10/infographic.jpg
+https://miro.medium.com/max/1400/1*-IMzu4CQnpA4dxod8xBkfQ.png
+https://www.targetinternet.com/how-to-get-google-analytics-certification-5-free-resources/
+https://www.sqlshack.com/designing-a-modular-etl-architecture/
